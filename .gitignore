@@ -1,3 +1,7 @@
 .idea
 income_discrepancy.csv
 input/
+*.pyc
+*.pyo
+*/__pycache__/
+income_discrepancy.csv~
